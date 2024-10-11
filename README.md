@@ -45,3 +45,11 @@ To get started with this project, follow these steps:
    ```bash
    git clone <repository-url>
    cd <project-directory>
+
+## Wire Frames
+
+1. Login Page
+2. Welcome Page
+3. About Us Page
+4. Swipe Page
+5. Ask GPT Page
