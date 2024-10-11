@@ -1,4 +1,4 @@
-# Tinder Swipe Mobile Application
+# Moral Swipe Mobile Application
 
 ## Project Overview
 
