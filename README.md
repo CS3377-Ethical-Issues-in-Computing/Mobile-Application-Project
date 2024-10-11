@@ -54,13 +54,13 @@ To get started with this project, follow these steps:
 4. Swipe Page
 5. Ask GPT Page
 
-1. Login Page
+   Login Page
 ![about](/images/login.PNG)
-2. Welcome Page
+   Welcome Page
 ![about](/images/landing.PNG)
-3. About Us Page
+   About Us Page
 ![about](/images/about.PNG)
-4. Swipe Page
+   Swipe Page
 ![about](/images/swipe.PNG)
-5. Ask GPT Page
+   Ask GPT Page
 ![about](/images/gpt.PNG)
